@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gervy28 or Nate Gervenak a guy who loves the physical and the digital
-- 👀 I’m interested in collaborating with more skilled programmers to grow my skills
-- 🌱 I’m currently learning WordPress Plugin Development, Laravel and how to build cabinents. 
-- 💞️ I’m looking to collaborate on projects that need some managerial help + front end help
+- 👋 Hi, I’m @gervy28 but people call me Nate. I love the physical and the digital.
+- 👀 I’m interested in PHP, WordPress, and React Development - I want to build awesome tools
+- 🌱 I’m always growing the skills that help with Full Stack Dev. 
 - 📫 To get in touch just send me an email at gervenaknate@gmail.com
 
 <!---
