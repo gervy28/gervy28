@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gervy28 but people call me Nate. I love the physical and the digital.
-- 👀 I’m interested in PHP, WordPress, and React Development. I like building practical tools!
+- 👀 I love to code and consider it a hobby, but I'm far more of a Product Manager
 - 🌱 I'm a very active learner, self-taught, and I continue to exapnd my skills every day.
-- 📫 I am actively looking for work and collaboration opportunites, email at gervenaknate@gmail.com if you'd like to work together!
+- 📫 Want to get in touch, checkout my website at nategervenak.com 
 
 
 <!---
